@@ -44,8 +44,13 @@ To see if it is on. Go in as Administrator into Powershell. change <username> to
 
 
 
-### Header 3
-
+### Personal projects
+* Local server and tcp capture in rust
+* XSS (in Linode)
+* Simulation SOC + Threat Intelligence Feed (in Azure)
+* Pen testing HomeLab (VM)
+* Running my own SIEM (Linode)
+* Making Coffee
 
 #### Header 4
 
