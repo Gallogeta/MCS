@@ -9,7 +9,7 @@ layout: default
  Enjoy exploring
  ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Memyselfnme](Meelis_Norenberg_pic.png)
 
 [Link to another page](./another-page.html).
 
