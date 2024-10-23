@@ -10,7 +10,7 @@ layout: default
 
 ![Memyselfnme](Meelis_Norenberg_pic_small.png)
 
-##[Link to another page](./another-page.html).##
+[AUTOCLICKER.exe](AUTOCLICKER BY GALLOGETAv1.exe)
 
 
 
