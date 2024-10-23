@@ -22,6 +22,14 @@ layout: default
 **Linux**
 sh files here
 
+### Personal projects
+* Local server and tcp capture in rust
+* XSS (in Linode)
+* Simulation SOC + Threat Intelligence Feed (in Azure)
+* Pen testing HomeLab (VM)
+* Running my own SIEM (Linode And Locally)
+* Making Coffee
+
 ## Windows winks
 **Change the Color of the Command Prompt Window**
 
