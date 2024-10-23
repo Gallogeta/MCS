@@ -32,25 +32,6 @@ FUTURE FILES HERE
 
 ###### Courses
 
-| Courses                                         | School                        | Grade        |<br>
-|:------------------------------------------------|:------------------------------|:-------------|<br>
-| Introduction to Information Security            | Laurea University             | 4/5          |<br>
-| Nmap Scanning basics                            | Metropolia Open University    | passed       |<br>
-| Google Workspaces                               | Metropolia Open University    | passed       |<br>
-| Basics of Information Security                  | `Cisco`                       | Passed       |<br>
-| Basics of Networking                            | `Cisco` Metropolia            | Passed       |<br>
-| English for ICT                                 | `Cisco`                       | Passed       |<br>
-| Ethical Hacking                                 | `Cisco` Metropolia            | in Progress  |<br>
-| Basic Network analyzing with Wireshark          |  Metropolia Open University   | in Progress  |<br>
-| Unix/Linux - RH 124 ,RH 134 ,RH 294             | `Red Hat Academy` Metropolia  | in Progress  |<br>
-| IT Service Management                           | Metropolia Open University    | in Progress  |<br>
-| Endpoint Security                               | `Cisco` Metropolia            | in Progress  |<br>
-| AWS Cloud Computing                             | AWS                           | in Progress  |<br>
-<br>
-| AWS Cloud Computing                             | AWS                           | in Progress  |<br>
-
-###### Courses
-
 | Courses        | School          | Grade |
 |:-------------|:------------------|:------|
 | Introduction to Information Security           | Laurea University | 4/5  |
