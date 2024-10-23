@@ -51,9 +51,9 @@ FUTURE FILES HERE
 
 ###### Header 6
 
-| Courses        | head two          | three |
+| Courses        | School          | Grade |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| Introduction to Information Security           | Laurea University | 4/5  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
