@@ -19,8 +19,8 @@ layout: default
 **Windows:**
 [AUTOCLICKER In C](AUTOCLICKER BY GALLOGETAv1.exe)
 
-**Linux**
-sh files here
+**Linux:**
+FUTURE FILES HERE
 
 ### Personal projects
 * Local server and tcp capture in rust
