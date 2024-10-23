@@ -32,12 +32,24 @@ FUTURE FILES HERE
 
 ###### Courses
 
-| Courses                                         | School                        | Grade |
-|:------------------------------------------------|:------------------------------|:------|
-| Introduction to Information Security            | Laurea University             | 4/5     |
-| Nmap Scanning basics                            | Metropolia Open University    | passed  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Courses                                         | School                        | Grade        |
+|:------------------------------------------------|:------------------------------|:-------------|
+| Introduction to Information Security            | Laurea University             | 4/5          |
+| Nmap Scanning basics                            | Metropolia Open University    | passed       |
+| Google Workspaces                               | Metropolia Open University    | passed       |
+| Basics of Information Security                  | `Cisco`                       | Passed       |
+| Basics of Networking                            | `Cisco` Metropolia            | Passed       |
+| English for ICT                                 | `Cisco`                       | Passed       |
+| Ethical Hacking                                 | `Cisco` Metropolia            | in Progress  |
+| Basic Network analyzing with Wireshark          |  Metropolia Open University   | in Progress  |
+| Unix/Linux - RH 124 ,RH 134 ,RH 294             | `Red Hat Academy` Metropolia  | in Progress  |
+| IT Service Management                           | Metropolia Open University    | in Progress  |
+| Endpoint Security                               | `Cisco` Metropolia            | in Progress  |
+| AWS Cloud Computing                             | AWS                           | in Progress  |
+<br>
+| AWS Cloud Computing                             | AWS                           | in Progress  |
+
+
 
 
 ## Windows winks
