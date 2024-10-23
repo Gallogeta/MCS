@@ -16,14 +16,19 @@ layout: default
 
 
 # Programs and  Codes<br>
-Windows:
+**Windows:**
 [AUTOCLICKER In C](AUTOCLICKER BY GALLOGETAv1.exe)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Linux**
+sh files here
 
-## Header 2
+## Windows winks
+Change the Color of the Command Prompt Window
 
-> This is a blockquote following a header.
+> Launch CMD and Right-click on the title bar
+>Click on “Properties” and in the separate window that opens, click on “Colors”`
+>Here you can choose the colors for the screen text or background as well as for the popup text and background, and also change the transparency of the CMD window
+>After you’re done choosing the most fitting colors for your personality, Click OK
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
