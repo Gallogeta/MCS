@@ -51,17 +51,17 @@ FUTURE FILES HERE
 
 | Courses        | School          | Grade |
 |:-------------|:------------------|:------|
-| Recreation Management           | Tallinn University | Unfinished/BA  |
-| Sound Engineering | Tallinn University   | Unfinished/BA  |
+| Recreation Management                      | Tallinn University | Unfinished/BA  |
+| Sound Engineering            | Tallinn University   | Unfinished/BA  |
 
 ###### **EXTRA Additional Courses**
 
 | Courses        | School          | Grade |
 |:-------------|:------------------|:------|
-| Classical Opera           | East-Helsinki Music School | 2 years  |
-| Classical Opera | Galina Kimchi   | Private lessons 5 years  |
-| Security           | Helsinki Workforce | passed |
-| Forklift | Pekkaniska   | passed  |
+| Classical Opera                      | East-Helsinki Music School | 2 years  |
+| Classical Opera            | Galina Kimchi   | Private lessons 5 years  |
+| Security                      | Helsinki Workforce | passed |
+| Forklift            | Pekkaniska   | passed  |
 
 
 ## Windows winks
