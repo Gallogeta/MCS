@@ -47,6 +47,14 @@ FUTURE FILES HERE
 | Endpoint Security  | `Cisco` Metropolia   | in Progress  |
 | AWS Cloud Computing           | AWS      | in Progress   |
 
+###### Additional Courses
+
+| Courses        | School          | Grade |
+|:-------------|:------------------|:------|
+| Recreation Management           | Tallinn University | Unfinished/BA  |
+| Sound Engineering | Tallinn University   | Unfinished/BA  |
+
+
 ## Windows winks
 **Change the Color of the Command Prompt Window**
 
