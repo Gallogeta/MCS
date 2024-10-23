@@ -6,10 +6,9 @@ layout: default
  Welcome to my humble page. Do not fear! There is no XSS not tcp capture.
  All files are clean and made by me....well at least 75%. That other 25% is AI and books.
 
- Enjoy exploring
- ### Small image
+ Enjoy exploring!<br></br>
 
-![Memyselfnme](Meelis_Norenberg_pic.png)
+![Memyselfnme](Meelis_Norenberg_pic_small.png)
 
 [Link to another page](./another-page.html).
 
