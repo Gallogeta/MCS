@@ -34,7 +34,7 @@ FUTURE FILES HERE
 
 | Courses                                         | School                        | Grade        |<br>
 |:------------------------------------------------|:------------------------------|:-------------|<br>
-| Introduction to Information Security------------| Laurea University-------------| 4/5----------|<br>
+| Introduction to Information Security            | Laurea University             | 4/5          |<br>
 | Nmap Scanning basics                            | Metropolia Open University    | passed       |<br>
 | Google Workspaces                               | Metropolia Open University    | passed       |<br>
 | Basics of Information Security                  | `Cisco`                       | Passed       |<br>
