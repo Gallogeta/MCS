@@ -30,7 +30,7 @@ FUTURE FILES HERE
 * Running my own SIEM (Linode And Locally)
 * Making Coffee
 
-###### Courses
+###### **Courses**
 
 | Courses        | School          | Grade |
 |:-------------|:------------------|:------|
@@ -45,14 +45,23 @@ FUTURE FILES HERE
 | Unix/Linux - RH 124 ,RH 134 ,RH 294           | `Red Hat Academy` Metropolia | in Progress  |
 | IT Service Management           | Metropolia Open University | in Progress  |
 | Endpoint Security  | `Cisco` Metropolia   | in Progress  |
-| AWS Cloud Computing           | AWS      | in Progress   |
+| AWS Cloud Computing           | Amazon Web Service      | in Progress   |
 
-###### Additional Courses
+###### **Additional Courses**
 
 | Courses        | School          | Grade |
 |:-------------|:------------------|:------|
 | Recreation Management           | Tallinn University | Unfinished/BA  |
 | Sound Engineering | Tallinn University   | Unfinished/BA  |
+
+###### **EXTRA Additional Courses**
+
+| Courses        | School          | Grade |
+|:-------------|:------------------|:------|
+| Classical Opera           | East-Helsinki Music School | 2 years  |
+| Classical Opera | Galina Kimchi   | Private lessons 5 years  |
+| Security           | Helsinki Workforce | passed |
+| Forklift | Pekkaniska   | passed  |
 
 
 ## Windows winks
