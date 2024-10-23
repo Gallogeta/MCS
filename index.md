@@ -30,6 +30,16 @@ FUTURE FILES HERE
 * Running my own SIEM (Linode And Locally)
 * Making Coffee
 
+###### Courses
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+
 ## Windows winks
 **Change the Color of the Command Prompt Window**
 
