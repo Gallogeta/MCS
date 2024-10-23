@@ -49,7 +49,7 @@ FUTURE FILES HERE
 <br>
 | AWS Cloud Computing                             | AWS                           | in Progress  |<br>
 
-###### Header 6
+###### Courses
 
 | Courses        | School          | Grade |
 |:-------------|:------------------|:------|
@@ -61,7 +61,10 @@ FUTURE FILES HERE
 | English for ICT  | `Cisco`   | passed  |
 | Ethical Hacking           | `Cisco` Metropolia      | in Progress   |
 | Basic Network analyzing with Wireshark           | Metropolia Open University | in Progress  |
-
+| Unix/Linux - RH 124 ,RH 134 ,RH 294           | `Red Hat Academy` Metropolia | in Progress  |
+| IT Service Management           | Metropolia Open University | in Progress  |
+| Endpoint Security  | `Cisco` Metropolia   | in Progress  |
+| AWS Cloud Computing           | AWS      | in Progress   |
 
 ## Windows winks
 **Change the Color of the Command Prompt Window**
