@@ -51,15 +51,6 @@ To see if it is on. Go in as Administrator into Powershell. change <username> to
 
 
 
-
-### Personal projects
-* Local server and tcp capture in rust
-* XSS (in Linode)
-* Simulation SOC + Threat Intelligence Feed (in Azure)
-* Pen testing HomeLab (VM)
-* Running my own SIEM (Linode And Locally)
-* Making Coffee
-
 #### Header 4
 
 *   This is an unordered list following a header.
