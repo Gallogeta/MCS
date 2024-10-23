@@ -51,7 +51,7 @@ FUTURE FILES HERE
 
 ###### Header 6
 
-| head1        | head two          | three |
+| Courses        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
