@@ -32,9 +32,9 @@ FUTURE FILES HERE
 
 ###### Courses
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| Courses                                         | School            | Grade |
+|:------------------------------------------------|:------------------|:------|
+| Introduction to Information Security            | Laurea University | 4/5   |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
