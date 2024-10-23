@@ -57,10 +57,10 @@ FUTURE FILES HERE
 | Nmap Scanning basics | Metropolia Open University   | passed  |
 | Google Workspaces           | Metropolia Open University      | passed   |
 | Basics of Information Security           | `Cisco` | Passed  |
-| Introduction to Information Security           | Laurea University | 4/5  |
-| Nmap Scanning basics | Metropolia Open University   | passed  |
-| Google Workspaces           | Metropolia Open University      | passed   |
-| Basics of Information Security           | `Cisco` | Passed  |
+| Basics of Networking           | `Cisco` Metropolia | Passed  |
+| English for ICT  | `Cisco`   | passed  |
+| Ethical Hacking           | `Cisco` Metropolia      | in Progress   |
+| Basic Network analyzing with Wireshark           | Metropolia Open University | in Progress  |
 
 
 ## Windows winks
