@@ -46,20 +46,6 @@ To see if it is on. Go in as Administrator into Powershell. change <username> to
 
 ### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
@@ -134,6 +120,20 @@ Now I am going to learn cyber security and coding. Even, if people don't see my 
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
 
 ### Definition lists can be used with HTML syntax.
 
