@@ -32,10 +32,10 @@ FUTURE FILES HERE
 
 ###### Courses
 
-| Courses                                         | School            | Grade |
-|:------------------------------------------------|:------------------|:------|
-| Introduction to Information Security            | Laurea University | 4/5   |
-| out of stock | good and plenty   | nice  |
+| Courses                                         | School                        | Grade |
+|:------------------------------------------------|:------------------------------|:------|
+| Introduction to Information Security            | Laurea University             | 4/5     |
+| Nmap Scanning basics                            | Metropolia Open University    | passed  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
