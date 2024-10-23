@@ -2,11 +2,11 @@
 layout: default
 ---
 
-**Meelis Norenberg presents!**<br></br>
+**Meelis Norenberg presents!**<br>
  Welcome to my humble page. Do not fear! There is no XSS not tcp capture.
  All files are clean and made by me....well at least 75%. That other 25% is AI and books.
 
- Enjoy exploring!<br></br>
+ Enjoy exploring!<br>
 
 ![Memyselfnme](Meelis_Norenberg_pic_small.png)
 
