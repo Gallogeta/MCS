@@ -31,6 +31,8 @@ Change the Color of the Command Prompt Window
 >After you’re done choosing the most fitting colors for your personality, Click OK
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+**List Every Driver Installed on Your Windows 10 PC**
+> driverquery /FO list /v in CMD
 
 ### Header 3
 
