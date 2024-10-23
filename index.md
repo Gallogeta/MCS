@@ -55,8 +55,8 @@ FUTURE FILES HERE
 |:-------------|:------------------|:------|
 | Introduction to Information Security           | Laurea University | 4/5  |
 | Nmap Scanning basics | Metropolia Open University   | passed  |
-| oGoogle Workspaces           | Metropolia Open University      | passed   |
-| ok           | good `zoute` drop | yumm  |
+| Google Workspaces           | Metropolia Open University      | passed   |
+| Basics of Information Security           | `Cisco` | Passed  |
 
 
 ## Windows winks
