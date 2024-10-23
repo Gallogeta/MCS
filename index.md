@@ -7,6 +7,9 @@ layout: default
  All files are clean and made by me....well at least 75%. That other 25% is AI and books.
 
  Enjoy exploring
+ ### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 [Link to another page](./another-page.html).
 
