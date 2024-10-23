@@ -36,10 +36,13 @@ sh files here
 
 **Windows Recall**<br>
 To see if it is on. Go in as Administrator into Powershell. change <username> to your own user (Like john, Mary, Pekka, Jussi):<br>
-Get-Mailbox -Identity <username> | Select-Object -ExpandProperty RecallEnabled<br>
-To Disable it<br>
-Set-Mailbox -Identity <username> -RecallEnabled $false<br>
-Go in as Administrator into Powershell
+>Get-Mailbox -Identity <username> | Select-Object -ExpandProperty RecallEnabled<br><br>
+
+**To Disable it**<br>
+>Set-Mailbox -Identity <username> -RecallEnabled $false<br><br>
+
+
+
 
 ### Header 3
 
