@@ -18,16 +18,6 @@ layout: default
 # Navigation<br>
 ### **[Work History](WorkHistory.md)   [Education](Education.md)   [Coding](Coding.md)   [Achivements](Achivements.md)   [Guides](Guides.md)**
 
-**Linux:**
-FUTURE FILES HERE
-
-### Personal projects
-* Local server and tcp capture in rust
-* XSS (in Linode)
-* Simulation SOC + Threat Intelligence Feed (in Azure)
-* Pen testing HomeLab (VM)
-* Running my own SIEM (Linode And Locally)
-* Making Coffee
 
 ###### **Courses**
 
