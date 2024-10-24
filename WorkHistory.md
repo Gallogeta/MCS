@@ -7,9 +7,7 @@ layout: default
 
 **[BACK TO INDEX](index.md)**
 
-
-
-# Job History
+<br>
 
 
 ## Linora OÜ - IT Support remote 2023
