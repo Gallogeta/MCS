@@ -16,8 +16,7 @@ layout: default
 
 
 # Programs and  Codes<br>
-**Windows:**
-[AUTOCLICKER In C](AUTOCLICKER BY GALLOGETAv1.exe)
+[Work History](WorkHistory.md) [Education](Education.md) [Coding](Coding.md) [Achivements](Achivements.md) [Guides](Guides.md)
 
 **Linux:**
 FUTURE FILES HERE
@@ -65,7 +64,7 @@ FUTURE FILES HERE
 | Linkedin as Marketing tool                     | Metropolia open University | passed |
 | Instagram as Marketing tool            | Metropolia open University   | passed  |
 
-[Work History](WorkHistory.md)
+
 
 
 ## Windows winks
