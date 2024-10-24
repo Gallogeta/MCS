@@ -2,7 +2,7 @@
 layout: default
 ---
 # Navigation<br>
-### **[Work History](WorkHistory.md)   [Achivements](Achivements.md)  [Coding(Coding.md)  [Guides](Guides.md)**<br>
+### **[Work History](WorkHistory.md)   [Achivements](Achivements.md)   [Coding](Coding.md)  [Guides](Guides.md)**<br>
 
 **[BACK TO INDEX](index.md)**
 
