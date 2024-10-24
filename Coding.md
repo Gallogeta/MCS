@@ -4,7 +4,11 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+
+# Navigation<br>
+### **[Work History](WorkHistory.md)   [Education](Education.md)   [Coding](Coding.md)   [Achivements](Achivements.md)   [Guides](Guides.md)<br>
+ [BACK TO INDEX](index.md)**
+
 
 
 Here is the place where I list my finished or currently active projects
