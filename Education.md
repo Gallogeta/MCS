@@ -42,7 +42,8 @@ layout: default
 | Linkedin as Marketing tool                     | Metropolia open University | passed |
 | Instagram as Marketing tool            | Metropolia open University   | passed  |
 
-#Language skills
+### Language skills<br>
+
 **Estonia - native** C2.1<br>
 **English - fluent** C1.2<br>
 **Finnish - fluent** B2.0<br>
