@@ -33,8 +33,7 @@ I double check all data accuracy and can say, i’m fairly moderate typist. I lo
 they exist, or if they don't I make them myself.
 I also like art. Drawing , singing opera and designing. Editing and making movies. Doing my own
 sound designs and implementing effects.
-My personal projects include, building bad web-pages, some programming (Tetris
-game), bash scripting, batch scripting (useless malware, auto-clicker). I have build my own Pen
+My personal projects include, building bad web-pages, some programming, bash scripting, batch scripting (useless malware, auto-clicker). I have build my own Pen
 testing Lab in VM. I have modified HEX code in apps for my entertainment. I also sing in
 Musiikkitalo Opera Choir, draw and sometimes play PC games on Linux.
 Aside of making funny stuff and scripts I take Cyber Security very seriously. I have keen eye to
