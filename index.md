@@ -2,6 +2,12 @@
 layout: default
 ---
 
+
+
+# Navigation<br>
+### **[Work History](WorkHistory.md)   [Education](Education.md)   [Coding](Coding.md)   [Achivements](Achivements.md)   [Guides](Guides.md)**<br>
+
+
 **Meelis Norenberg presents!**<br>
 
  Welcome to my humble page. Do not fear! There is no XSS not tcp capture.
@@ -14,9 +20,6 @@ layout: default
 
 
 
-
-# Navigation<br>
-### **[Work History](WorkHistory.md)   [Education](Education.md)   [Coding](Coding.md)   [Achivements](Achivements.md)   [Guides](Guides.md)**
 
 
 **My brief History**<br>
