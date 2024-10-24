@@ -38,6 +38,7 @@ Now I am going to learn cyber security and coding. Even, if people don't see my 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### References:<br>
+Tiina Toomela - Private entrepeneur - (egn, rus, est) +37256361174
 Lauri Laipaik - Senior IT Technic in Estonian Government Strategy Center Tallinn branch (eng, est) +37255917739 <br>
 Tuula Saari-Mannila KOTIKATU - HR Coordinator - (fin, eng) +358453484113 <br>
 Kertu Vips - Linora CEO - (est, eng) +37256685839 <br>
