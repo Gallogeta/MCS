@@ -45,5 +45,5 @@ layout: default
 # Certificates
 
 Gotta catch them all!
-**[Credly Certificates]([index.md](https://www.credly.com/users/meelis-norenberg)**
+**[Credly Certificates](https://www.credly.com/users/meelis-norenberg)**
 
