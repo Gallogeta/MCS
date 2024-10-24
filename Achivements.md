@@ -22,6 +22,8 @@ II Place: National Champion 2008 Long Jump<br>
 Music House Choir: Bass 2 Opera Singer<br>
 East-Helsinki Music School Opera performer/Singer<br>
 Cyber ExM Band creator/Producer: [Cyber ExM](https://www.youtube.com/@cyberexm)<br>
+Cyberpunk 2077 music contest 74th place.<br>
+Personal Classical Opera Concert in Alppila church Helsinki.<br>
 
 
 
