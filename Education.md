@@ -42,6 +42,8 @@ layout: default
 | Linkedin as Marketing tool                     | Metropolia open University | passed |
 | Instagram as Marketing tool            | Metropolia open University   | passed  |
 
-# Header 1
+# Certificates
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Gotta catch them all!
+**[Credly Certificates]([index.md](https://www.credly.com/users/meelis-norenberg)**
+
