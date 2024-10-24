@@ -19,9 +19,9 @@ II Place: National Champion 2008 Long Jump<br>
 
 ## Best of Singing/Music:<br>
 
-Music House Choir: Bass 2 Opera Singer
-East-Helsinki Music School Opera performer/Singer
-Cyber ExM Band creator/Producer: [Cyber ExM](https://www.youtube.com/@cyberexm)
+Music House Choir: Bass 2 Opera Singer<br>
+East-Helsinki Music School Opera performer/Singer<br>
+Cyber ExM Band creator/Producer: [Cyber ExM](https://www.youtube.com/@cyberexm)<br>
 
 
 
