@@ -61,7 +61,7 @@ Responsibilities:<br>
 
 >Home Cleaning Services in Manhattan<br>
 
-## Scanfil 2012-2013
+## Scanfil 2012-2013 (EST)
 Responsibilities:<br>
 
 > MSD, ESD Operator<br>
@@ -69,13 +69,20 @@ Responsibilities:<br>
 > Electronic Chipset Assembly<br>
 > Programming MSD Operation machine<br>
 
-## Freelance Light entrpreneur 2017-2019
+## Saaremaa SPA Hotels 2011-2012 (EST)
 Responsibilities:<br>
 
-> Cleaning Services<br>
+> Receptionist, Administrator<br>
+> Registering guests<br>
+> City guide services<br>
+> Ensuring a healthy and respectful experience<br>
 
-## Freelance Light entrpreneur 2017-2019
+## Film Audio 2008-2011 (EST) 
 Responsibilities:<br>
 
-> Cleaning Services<br>
+> Sound designer/engineer<br>
+> SFX, Finding, recording, and mixing ambient sounds<br>
+> Recording Foley sounds<br>
+> Audio advertisements.<br>
+> File security<br>
 
