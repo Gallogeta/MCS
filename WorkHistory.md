@@ -40,4 +40,42 @@ Responsibilities:<br>
 Responsibilities:<br>
 
 > Cleaning Services<br>
+> 130 5-star reviews<br>
+
+
+## Siskon Siivous 2015-2016
+Responsibilities:<br>
+
+> Chemical cleaning<br>
+> After death cleaning<br>
+>Floor waxing<br>
+
+## Finn-Diiling 2014-2015
+Responsibilities:<br>
+
+> Chemical cleaning<br>
+>Floor waxing<br>
+
+## New-York Wizards Home Cleaning 2013 (USA)
+Responsibilities:<br>
+
+>Home Cleaning Services in Manhattan<br>
+
+## Scanfil 2012-2013
+Responsibilities:<br>
+
+> MSD, ESD Operator<br>
+> Electrostatic Discharge prevention<br>
+> Electronic Chipset Assembly<br>
+> Programming MSD Operation machine<br>
+
+## Freelance Light entrpreneur 2017-2019
+Responsibilities:<br>
+
+> Cleaning Services<br>
+
+## Freelance Light entrpreneur 2017-2019
+Responsibilities:<br>
+
+> Cleaning Services<br>
 
