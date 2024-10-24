@@ -33,7 +33,7 @@ Now I am going to learn cyber security and coding. Even, if people don't see my 
 
 
 
-### Small image
+### Cat
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
