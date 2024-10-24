@@ -10,21 +10,21 @@ layout: default
 <br>
 
 
-## Linora OÜ - IT Support remote 2023
+## Linora - IT Support remote 2023
 Responsibilities:<br>
 
 > Level 1 Help desk<br>
 > User PC configuration<br>
 > OS installation<br>
 
-## Kotikatu OY (vak.) 2021-2023
+## Kotikatu (vak.) 2021-2023
 Responsibilities:<br>
 
 > Chemical cleaning<br>
 > Team leader<br>
 >Floor waxing<br>
 
-## Avarn OY - Security (Vartija) (vak) 2020-2021
+## Avarn - Security (Vartija) (vak) 2020-2021
 Responsibilities:<br>
 
 > District security<br>
