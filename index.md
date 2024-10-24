@@ -63,7 +63,7 @@ FUTURE FILES HERE
 | Security                      | Helsinki Workforce | passed |
 | Forklift            | Pekkaniska   | passed  |
 | Linkedin as Marketing tool                     | Metropolia open University | passed |
-| Instagram as Marketing tool            | Metropolia   | passed  |
+| Instagram as Marketing tool            | Metropolia open University   | passed  |
 
 
 ## Windows winks
