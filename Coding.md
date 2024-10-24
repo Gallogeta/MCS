@@ -15,7 +15,7 @@ Here is the place where I list my finished or currently active projects
 # List of Projects
 
 **Linux:**<br>
-**[AUTOCLICKER](AUTOCLICKER BY GALLOGETAv1.exe)**
+**[AUTOCLICKER](AUTOCLICKER_BY_GALLOGETAv1.exe)**
 
 ### Personal projects
 * Local server and tcp capture in rust
