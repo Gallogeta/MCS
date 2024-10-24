@@ -65,9 +65,9 @@ When I was 12, I had a dream where I invented something that changed the world. 
 **Now, I'm embarking on a journey to learn cybersecurity and coding. Even if people doubt my potential or hesitate to hire me, I'm determined to become one of the best professionals in the field. Human potential is boundless. Limitations only exist within the social environment created by those who fear success or are resistant to unconventional thinking.**<br>
 
 
-### Cat
+### Future me when I have money to buy a hoodie
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Hacker](pngegg.png)
 
 ### References:<br>
 Tiina Toomela - Private entrepeneur - (eng, rus, est) +37256361174<br>
