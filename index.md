@@ -65,6 +65,8 @@ FUTURE FILES HERE
 | Linkedin as Marketing tool                     | Metropolia open University | passed |
 | Instagram as Marketing tool            | Metropolia open University   | passed  |
 
+[Work History](WorkHistory.md)
+
 
 ## Windows winks
 **Change the Color of the Command Prompt Window**
