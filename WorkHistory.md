@@ -13,10 +13,11 @@ layout: default
 
 
 ## Linora OÜ - IT Support remote 2023
-Responsibilities:
-> Level 1 Help desk
-> User PC configuration
-> OS installation
+Responsibilities:<br>
+
+> Level 1 Help desk<br>
+> User PC configuration<br>
+> OS installation<br>
 
 ### Header 3
 
