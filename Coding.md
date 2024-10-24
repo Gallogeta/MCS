@@ -31,4 +31,27 @@ Here is the place where I list my finished or currently active projects
 * Making Coffee
 
 
+###### **Coding Languages**
+
+| Language        | level          | Do I like it? |
+|:-------------|:------------------|:------|
+| Rust                      | Beginner | Yes! I love it!  |
+| C           | Beginner   | Yes  |
+| HTML                      | Advanced | Yes  |
+| PHP           | Beginner   | Yes  |
+| Javascript                      | Beginner | No  |
+| Bash           | Advanced   | Yes  |
+| Batch                      | Beginner | Yes  |
+| Kotlin           | Beginner   | Confused |
+| Python                      | Beginner | Yes  |
+| React           | Beginner   | Confused |
+
+
+
+
+
+
+
+
+
 ## Something
