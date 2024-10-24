@@ -62,6 +62,8 @@ FUTURE FILES HERE
 | Classical Opera            | Galina Kimchi   | Private lessons 5 years  |
 | Security                      | Helsinki Workforce | passed |
 | Forklift            | Pekkaniska   | passed  |
+| Linkedin as Marketing tool                     | Metropolia open University | passed |
+| Instagram as Marketing tool            | Metropolia   | passed  |
 
 
 ## Windows winks
