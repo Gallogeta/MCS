@@ -12,7 +12,17 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Linux:**
+FUTURE FILES HERE
+
+### Personal projects
+* Local server and tcp capture in rust
+* XSS (in Linode)
+* Simulation SOC + Threat Intelligence Feed (in Azure)
+* Pen testing HomeLab (VM)
+* Running my own SIEM (Linode And Locally)
+* Making Coffee
+
 
 ## Header 2
 
