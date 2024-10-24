@@ -10,47 +10,47 @@ layout: default
 <br>
 
 
-## Linora - IT Support remote 2023
+## Linora - IT Support remote 2023 (EST)
 Responsibilities:<br>
 
 > Level 1 Help desk<br>
 > User PC configuration<br>
 > OS installation<br>
 
-## Kotikatu (vak.) 2021-2023
+## Kotikatu (vak.) 2021-2023 (FIN)
 Responsibilities:<br>
 
 > Chemical cleaning<br>
 > Team leader<br>
 >Floor waxing<br>
 
-## Avarn - Security (Vartija) (vak) 2020-2021
+## Avarn - Security (Vartija) (vak) 2020-2021 (FIN)
 Responsibilities:<br>
 
 > District security<br>
-> IT supportn<br>
+> IT support<br>
 > Checking locks and exits<br>
 
-## Light entrepreneur 2019
+## Light entrepreneur 2019 (FIN)
 Responsibilities:<br>
 
 > Cleaning services<br>
 
-## Freelance Light entrpreneur 2017-2019
+## Freelance Light entrpreneur 2017-2019 (FIN & EST)
 Responsibilities:<br>
 
 > Cleaning Services<br>
 > 130 5-star reviews<br>
 
 
-## Siskon Siivous 2015-2016
+## Siskon Siivous 2015-2016 (FIN)
 Responsibilities:<br>
 
 > Chemical cleaning<br>
 > After death cleaning<br>
 >Floor waxing<br>
 
-## Finn-Diiling 2014-2015
+## Finn-Diiling 2014-2015 (FIN)
 Responsibilities:<br>
 
 > Chemical cleaning<br>
