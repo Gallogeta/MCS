@@ -13,9 +13,10 @@ layout: default
 
 ## Best of Track & Field:<br>
 
-I Place: National Champion 2008 Triple Jump<br>
+I Place: National Champion 2007 Triple Jump<br>
+I Place: National Champion 2007 Long Jump<br>
 II Place: European cup Championship 2005 Tiple Jump<br>
-II Place: National Champion 2008 Long Jump<br>
+
 
 ## Best of Singing/Music:<br>
 
