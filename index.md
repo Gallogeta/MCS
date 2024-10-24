@@ -17,8 +17,39 @@ layout: default
 
 ![Memyselfnme](Meelis_Norenberg_pic_small.png)
 
+**Cover letter for employers**<br>
+.
+I have ability to identify and solve problems logically and efficiently. I can provide excellent
+customer service, especially if the job involves interacting with clients. I can give support in 3
+different languages (English, Finnish, Estonian). I can work in teams and alone very well. I stay
+organized and manage my time effectively, especially if the job requires juggling multiple tasks.
+I am eager to learn new things and adapt to new technologies.<br>
 
+Also have no problem with user support, Active Directory, software installation and ticketing
+systems. I can troubleshoot and do functional testing and bug report. Previously I have done
+bug reports to several PC games. I am quite proficient installing many different OS’s into PC’s
+(different Linux distros, Windows distros. I understand UEFI Boot menus. I am fairly familiar with
+AI promting and different AI possibilities.
+Fair knowledge and experience in AWS Cloud Computing.<br>
 
+I double check all data accuracy and can say, i’m fairly moderate typist. I love to use shortcuts if
+they exist, or if they don't I make them myself.
+I also like art. Drawing , singing opera and designing. Editing and making movies. Doing my own
+sound designs and implementing effects.
+My personal projects include, building bad web-pages, some JavaScript programming (Tetris
+game), bash scripting, batch scripting (useless malware, auto-clicker). I have build my own Pen
+testing Lab in VM. I have modified HEX code in apps for my entertainment. I also sing in
+Musiikkitalo Opera Choir, draw and sometimes play PC games on Linux.
+Aside of making funny stuff and scripts I take Cyber Security very seriously. I have keen eye to
+details and double check , double practice, double read, double everything.
+I have a big list of project what I want to do. That includes also getting CompTIA Security+ and
+Network+ certificates as soon as possible.<br>
+
+I have proficient experience in setting up and managing Virtual Machines, taking snapshots, and
+using Wireshark. I am capable of creating a Virtual Box Sandbox Enviroment and configuring NAT
+and Internal network settings.
+My skills extend to working with various Linux and Windows OS, including installing and setting up
+Windows Server 19.
 
 
 
