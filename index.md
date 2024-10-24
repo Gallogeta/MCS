@@ -50,7 +50,7 @@ My skills extend to working with various Linux and Windows OS.<br>
 <br>
 <br>
 
-**My brief History**<br>
+### **My brief History**<br>
 
 **`Born in the former Soviet Union (Estonia), within the Iron Curtain, I was the only one who envisioned the future. No one believed me and laughed at my ideas. In 1990, I heard the Finnish National Anthem and felt a surge of warmth and hope. It was illegal to listen to music other than Soviet Union propaganda. My father and uncle modified radio signals to reach Helsinki, and we secretly tuned into the Yle radio station at midnight every night to catch the Finnish Hymn. In those moments, I held onto my belief in humanity.<br>
 When I was 12, I had a dream where I invented something that changed the world. Upon waking up, I tried desperately to remember what it was and sketched it out. Then, I realized that I couldn't jump if I hadn't learned to walk and run first. From that moment on, I aspired to become the best artist possible. I studied, learned, and practiced daily until I was the top artist in my school.`**
@@ -62,7 +62,7 @@ When I was 12, I had a dream where I invented something that changed the world. 
 **`Simultaneously, while cleaning, I developed a passion for learning opera. Despite having no formal musical education, I started practicing and learning from books and videos. I attended choir performances and rehearsals. After five years of dedicated opera training, I successfully organized my own public opera concert. Additionally, I was accepted as a bass 2 opera singer in the Musiikkitalo (Music House) opera choir.**`<br>
 
 **NOW**<br>
-**`Now, I'm embarking on a journey to learn cybersecurity and coding. Even if people doubt my potential or hesitate to hire me, I'm determined to become one of the best professionals in the field. Human potential is boundless. Limitations only exist within the social environment created by those who fear success or are resistant to unconventional thinking.**`<br>
+**Now, I'm embarking on a journey to learn cybersecurity and coding. Even if people doubt my potential or hesitate to hire me, I'm determined to become one of the best professionals in the field. Human potential is boundless. Limitations only exist within the social environment created by those who fear success or are resistant to unconventional thinking.**<br>
 
 
 ### Cat
