@@ -28,7 +28,7 @@ When I moved in Finland, I started working as a low level cleaner. Dead bodies, 
 Same time, when I was cleaning, I wanted to learn how to sing opera. I had no musical education. So I started practicing and learning from books and videos. Went to see choirs and choir practicies. After 5 years of training opera I managed to hold my own public Opera Concert and I was takes and a Bass 2 operas singer in Musiikkitalo (Music House) opera choir.<br>
 
 **NOW**<br>
-Now I am going to learn cyber security and coding. Even, if people don't see my potensial or are afraid to hire me, I'll be one of the best professionals. Human potensial has no limits. Limits are only in social enviroment made by those who ddon't want me to succeed or are just afraid out-of-the-box thinking.
+Now I am going to learn cyber security and coding. Even, if people don't see my potensial or are afraid to hire me, I'll be one of the best professionals. Human potential has no limits. Limits are only in social enviroment made by those who ddon't want me to succeed or are just afraid out-of-the-box thinking.
 
 
 
