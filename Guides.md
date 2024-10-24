@@ -2,14 +2,30 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Navigation<br>
+### **[Work History](WorkHistory.md)   [Education](Education.md)   [Achivements](Achivements.md)   [Guides](Guides.md)**<br>
 
-[Link to another page](./another-page.html).
+**[BACK TO INDEX](index.md)**
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Windows winks
+**Change the Color of the Command Prompt Window**
 
+> Launch CMD and Right-click on the title bar
+>Click on “Properties” and in the separate window that opens, click on “Colors”`
+>Here you can choose the colors for the screen text or background as well as for the popup text and background, and also change the transparency of the CMD window
+>After you’re done choosing the most fitting colors for your personality, Click OK
+<br>
+
+**List Every Driver Installed on Your Windows 10 PC**<br>
+> driverquery /FO list /v in CMD
+
+**Windows Recall**<br>
+To see if it is on. Go in as Administrator into Powershell. change <username> to your own user (Like john, Mary, Pekka, Jussi):<br>
+>Get-Mailbox -Identity <username> | Select-Object -ExpandProperty RecallEnabled<br><br>
+
+**To Disable it**<br>
+>Set-Mailbox -Identity <username> -RecallEnabled $false<br><br>
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
