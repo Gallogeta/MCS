@@ -34,7 +34,7 @@ When I moved to Finland, I began working as a low-level cleaner. My duties inclu
 Simultaneously, while cleaning, I developed a passion for learning opera. Despite having no formal musical education, I started practicing and learning from books and videos. I attended choir performances and rehearsals. After five years of dedicated opera training, I successfully organized my own public opera concert. Additionally, I was accepted as a bass 2 opera singer in the Musiikkitalo (Music House) opera choir.<br>
 
 **NOW**<br>
-Now, I'm embarking on a journey to learn cybersecurity and coding. Even if people doubt my potential or hesitate to hire me, I'm determined to become one of the best professionals in the field. Human potential is boundless. Limitations only exist within the social environment created by those who fear my success or are resistant to unconventional thinking.<br>
+Now, I'm embarking on a journey to learn cybersecurity and coding. Even if people doubt my potential or hesitate to hire me, I'm determined to become one of the best professionals in the field. Human potential is boundless. Limitations only exist within the social environment created by those who fear success or are resistant to unconventional thinking.<br>
 
 
 ### Cat
