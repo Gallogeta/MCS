@@ -27,16 +27,13 @@ I am eager to learn new things and adapt to new technologies.<br>
 
 Also have no problem with user support, Active Directory, software installation and ticketing
 systems. I can troubleshoot and do functional testing and bug report. Previously I have done
-bug reports to several PC games. I am quite proficient installing many different OS’s into PC’s
-(different Linux distros, Windows distros. I understand UEFI Boot menus. I am fairly familiar with
-AI promting and different AI possibilities.
-Fair knowledge and experience in AWS Cloud Computing.<br>
+bug reports to several PC games. Fair knowledge and experience in AWS Cloud Computing.<br>
 
 I double check all data accuracy and can say, i’m fairly moderate typist. I love to use shortcuts if
 they exist, or if they don't I make them myself.
 I also like art. Drawing , singing opera and designing. Editing and making movies. Doing my own
 sound designs and implementing effects.
-My personal projects include, building bad web-pages, some JavaScript programming (Tetris
+My personal projects include, building bad web-pages, some programming (Tetris
 game), bash scripting, batch scripting (useless malware, auto-clicker). I have build my own Pen
 testing Lab in VM. I have modified HEX code in apps for my entertainment. I also sing in
 Musiikkitalo Opera Choir, draw and sometimes play PC games on Linux.
@@ -45,15 +42,14 @@ details and double check , double practice, double read, double everything.
 I have a big list of project what I want to do. That includes also getting CompTIA Security+ and
 Network+ certificates as soon as possible.<br>
 
-I have proficient experience in setting up and managing Virtual Machines, taking snapshots, and
-using Wireshark. I am capable of creating a Virtual Box Sandbox Enviroment and configuring NAT
+I have proficient experience in setting up and managing Virtual Machines.
+I am capable of creating a Virtual Box Sandbox Enviroment and configuring NAT
 and Internal network settings.
-My skills extend to working with various Linux and Windows OS, including installing and setting up
-Windows Server 19.
+My skills extend to working with various Linux and Windows OS.<br>
 
 
 
-**My brief History**<br>
+´**My brief History**´<br>
 
 Born in the former Soviet Union (Estonia), within the Iron Curtain, I was the only one who envisioned the future. No one believed me and laughed at my ideas. In 1990, I heard the Finnish National Anthem and felt a surge of warmth and hope. It was illegal to listen to music other than Soviet Union propaganda. My father and uncle modified radio signals to reach Helsinki, and we secretly tuned into the Yle radio station at midnight every night to catch the Finnish Hymn. In those moments, I held onto my belief in humanity.<br>
 When I was 12, I had a dream where I invented something that changed the world. Upon waking up, I tried desperately to remember what it was and sketched it out. Then, I realized that I couldn't jump if I hadn't learned to walk and run first. From that moment on, I aspired to become the best artist possible. I studied, learned, and practiced daily until I was the top artist in my school.
