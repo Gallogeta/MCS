@@ -27,7 +27,3 @@ Personal Classical Opera Concert in Alppila church Helsinki.<br>
 Finlandia Suomi-Viro 100 Concert performer. Later editor for national TV.<br>
 
 
-
-
-
-AC
