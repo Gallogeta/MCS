@@ -2,9 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Navigation<br>
+### **[Work History](WorkHistory.md)   [Education](Education.md)   [Achivements](Achivements.md)   [Guides](Guides.md)**<br>
 
-[Link to another page](./another-page.html).
+**[BACK TO INDEX](index.md)**
 
 There should be whitespace between paragraphs.
 
