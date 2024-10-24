@@ -57,6 +57,6 @@ Here is the place where I list my finished or currently active projects
 ## Something
 **Experience with systems and programs**
 
-Linux, Nmap, SPLUNK & Sysmon, Hydra, Metasploit, Wireshark, Snort, bash scripting. SSH, VPN, JIRA, IDS/IPS, batch script,Canva, WordPress,Linode, Oracle VM, VMM, TheBox, <br>
+Linux, EDR, XDR, MDR, STRATA, Nmap, SPLUNK & Sysmon, Hydra, Metasploit, Wireshark, Snort, bash scripting. SSH, VPN, JIRA, IDS/IPS, batch script,Canva, WordPress,Linode, Oracle VM, VMM, TheBox, <br>
 Visual Studio Code,Windows 19 SERVER, MS Active Directory. Office, AWS Cloud, Google Workspaces, <br>
 
