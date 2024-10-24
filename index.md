@@ -24,16 +24,17 @@ layout: default
 
 **My brief History**<br>
 
-Born in former Soviet Union (Estonia), inside the iron curtain, I was the only one who saw the furture. Nobody belived me and laughed at me. On 1990 I heard Finnish National Hymn and I felt warmth and hope. It was illegal to listen other music than Soviet Union music. My father and uncle modified radio signals to reach Helsinki and we cought every night at 00.00 Yle radio station Finnish Hymn. In these moments I belived in humanity.<br>
-When I was 12, I saw a dream where I invented something that changed the world. When waking up I tried to remember what it was and tried to draw it. Then I understood that I can't jump if I haven't learned to walk and run first. After that I wanted to draw as proficienly as possible. I learned and studied, practiced every day until I was the best artist in my school.<br>
-I love sport also. __(What? Can't I be smart and sporty??)__ First to jump, I needed to learn how to walk and run. So I joined Track & Field club. I trained so hard every day and eventually I was able to jump high and long. So my main was long jump and triple jump. My personal record is 7m.31cm and triple jump 14m.30cm. I made it. I am National Champion of 2007. And European second. SO you see hard work always pays. <br>
-When I moved in Finland, I started working as a low level cleaner. Dead bodies, dead apartments, windows, floor waxing etc. I said to myself:"Even if im a cleaner, i'll be the best cleaner in Helsinki!" 7 years later, I am. I got invites from goverment institutes and popular companies in Finland to wax their floors or clean windows.<br>
-Same time, when I was cleaning, I wanted to learn how to sing opera. I had no musical education. So I started practicing and learning from books and videos. Went to see choirs and choir practicies. After 5 years of training opera I managed to hold my own public Opera Concert and I was takes and a Bass 2 operas singer in Musiikkitalo (Music House) opera choir.<br>
+Born in the former Soviet Union (Estonia), within the Iron Curtain, I was the only one who envisioned the future. No one believed me and laughed at my ideas. In 1990, I heard the Finnish National Anthem and felt a surge of warmth and hope. It was illegal to listen to music other than Soviet Union propaganda. My father and uncle modified radio signals to reach Helsinki, and we secretly tuned into the Yle radio station at midnight every night to catch the Finnish Hymn. In those moments, I held onto my belief in humanity.<br>
+When I was 12, I had a dream where I invented something that changed the world. Upon waking up, I tried desperately to remember what it was and sketched it out. Then, I realized that I couldn't jump if I hadn't learned to walk and run first. From that moment on, I aspired to become the best artist possible. I studied, learned, and practiced daily until I was the top artist in my school.
+
+I'm also passionate about sports. Why can't someone be both intelligent and athletic? To jump, I first needed to master walking and running. So, I joined the Track & Field club. I trained rigorously every day and eventually achieved the ability to jump high and long. My primary events were long jump and triple jump. My personal best is 7.31 meters in the long jump and 14.30 meters in the triple jump. I accomplished my goal. I became the National Champion in 2007 and a European runner-up. You see, hard work truly pays off. <br>
+
+When I moved to Finland, I began working as a low-level cleaner. My duties included cleaning up after deceased individuals, cleaning abandoned apartments, washing windows, and waxing floors. I made a promise to myself: "Even if I'm a cleaner, I'll be the best cleaner in Helsinki!" Seven years later, I achieved that goal. I received invitations from government institutions and renowned Finnish companies to wax their floors and clean their windows.
+
+Simultaneously, while cleaning, I developed a passion for learning opera. Despite having no formal musical education, I started practicing and learning from books and videos. I attended choir performances and rehearsals. After five years of dedicated opera training, I successfully organized my own public opera concert. Additionally, I was accepted as a bass 2 opera singer in the Musiikkitalo (Music House) opera choir.<br>
 
 **NOW**<br>
-Now I am going to learn cyber security and coding. Even, if people don't see my potensial or are afraid to hire me, I'll be one of the best professionals. Human potential has no limits. Limits are only in social enviroment made by those who ddon't want me to succeed or are just afraid out-of-the-box thinking.
-
-
+Now, I'm embarking on a journey to learn cybersecurity and coding. Even if people doubt my potential or hesitate to hire me, I'm determined to become one of the best professionals in the field. Human potential is boundless. Limitations only exist within the social environment created by those who fear my success or are resistant to unconventional thinking.<br>
 
 
 ### Cat
