@@ -18,7 +18,7 @@ layout: default
 ![Memyselfnme](Meelis_Norenberg_pic_small.png)
 
 **Cover letter for employers**<br>
-.
+
 I have ability to identify and solve problems logically and efficiently. I can provide excellent
 customer service, especially if the job involves interacting with clients. I can give support in 3
 different languages (English, Finnish, Estonian). I can work in teams and alone very well. I stay
