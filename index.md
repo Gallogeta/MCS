@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+[FIN](IndexFIN.md)[ENG](index.md)
 
 # Navigation<br>
 ### **[Work History](WorkHistory.md)   [Education](Education.md)   [Coding](Coding.md)   [Achivements](Achivements.md)   [Guides](Guides.md)**<br>
