@@ -15,6 +15,11 @@ Here is the place where I list my finished or currently active projects
 # List of Projects
 
 **Linux:**<br>
+
+
+
+**Windows:**<br>
+**In C**
 **[AUTOCLICKER](AUTOCLICKER_BY_GALLOGETAv1.exe)**
 
 ### Personal projects
