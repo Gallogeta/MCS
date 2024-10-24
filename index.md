@@ -19,7 +19,8 @@ layout: default
 ### **[Work History](WorkHistory.md)   [Education](Education.md)   [Coding](Coding.md)   [Achivements](Achivements.md)   [Guides](Guides.md)**
 
 
-**History**<br>
+**My brief History**<br>
+
 Born in former Soviet Union, inside the iron curtain, I was the only one who saw the furture. Nobody belived me and laughed at me. On 1990 I heard Finnish National Hymn and I felt warmth and hope. It was illegal to listen other music than Soviet Union music. My father and uncle modified radio signals to reach Helsinki and we cought every night at 00.00 Yle radio station Finnish Hymn. In these moments I belived in humanity.<br>
 When I was 12, I saw a dream where I invented something that changed the world. When waking up I tried to remember what it was and tried to draw it. Then I understood that I can't jump if I haven't learned to walk and run first. After that I wanted to draw as proficienly as possible. I learned and studied, practiced every day until I was the best artist in my school.<br>
 I love sport also. __(What? Can't I be smart and sporty??)__ First to jump, I needed to learn how to walk and run. So I joined Track & Field club. I trained so hard every day and eventually I was able to jump high and long. So my main was long jump and triple jump. My personal record is 7m.31cm and triple jump 14m.30cm. I made it. I am National Champion of 2007. And European second. SO you see hard work always pays. <br>
