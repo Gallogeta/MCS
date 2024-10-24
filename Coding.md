@@ -6,8 +6,8 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 
 # Navigation<br>
-### **[Work History](WorkHistory.md)   [Education](Education.md)   [Coding](Coding.md)   [Achivements](Achivements.md)   [Guides](Guides.md)<br>
- [BACK TO INDEX](index.md)**
+### **[Work History](WorkHistory.md)   [Education](Education.md)   [Coding](Coding.md)   [Achivements](Achivements.md)   [Guides](Guides.md)**<br>
+**[BACK TO INDEX](index.md)**
 
 
 
