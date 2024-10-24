@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Navigation<br>
-### **[Work History](WorkHistory.md)   [Education](Education.md)   [Achivements](Achivements.md)   [Guides](Guides.md)**<br>
+### **[Work History](WorkHistory.md)   [Education](Education.md)   [Achivements](Achivements.md)   [Coding](Coding.md)**<br>
 
 **[BACK TO INDEX](index.md)**
 
