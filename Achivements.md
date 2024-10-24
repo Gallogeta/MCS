@@ -24,6 +24,8 @@ East-Helsinki Music School Opera performer/Singer<br>
 Cyber ExM Band creator/Producer: [Cyber ExM](https://www.youtube.com/@cyberexm)<br>
 Cyberpunk 2077 music contest 74th place.<br>
 Personal Classical Opera Concert in Alppila church Helsinki.<br>
+Finlandia Suomi-Viro 100 Concert performer. Later editor for national TV.<br>
+
 
 
 
