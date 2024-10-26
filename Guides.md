@@ -27,7 +27,7 @@ To see if it is on. Go in as Administrator into Powershell. change <username> to
 **To Disable it**<br>
 >Set-Mailbox -Identity <username> -RecallEnabled $false<br><br>
 
-### Recall<br>
+### Recall check through CMD(admin)<br>
 
 >dism /online /get-featureinfo /featurename:Recall
 
