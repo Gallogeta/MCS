@@ -22,7 +22,7 @@ Here is the place where I list my finished or currently active projects
 **In C**<br>
 **[AUTOCLICKER](AUTOCLICKER_BY_GALLOGETAv1.exe)**<br>
 **[CMDFun](CMDfun.bat)**<br>
-**[ScriptActivator](ScriptActivator.bat)**<br>
+**[ScriptActivator](SkriptActivator.bat)**<br>
 **[UACDisable](UACDisable.bat)**<br>
 **[PowershellAutoDownload](powerskriptv1.ps1)**<br>
 **[ProgrammingTexts](program.txt.txt)**<br>
