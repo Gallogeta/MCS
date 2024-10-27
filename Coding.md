@@ -20,7 +20,13 @@ Here is the place where I list my finished or currently active projects
 
 **Windows:**<br>
 **In C**<br>
-**[AUTOCLICKER](AUTOCLICKER_BY_GALLOGETAv1.exe)**
+**[AUTOCLICKER](AUTOCLICKER_BY_GALLOGETAv1.exe)**<br>
+**[CMDFun](CMDfun.bat)**<br>
+**[ScriptActivator](ScriptActivator.bat)**<br>
+**[UACDisable](UACDisable.bat)**<br>
+**[PowershellAutoDownload](powerskriptv1.ps1)**<br>
+**[ProgrammingTexts](program.txt.txt)**<br>
+
 
 ### Personal projects
 * Local server and tcp capture in rust
