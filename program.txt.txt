@@ -1,0 +1,44 @@
+@echo off
+echo Downloading and installing wget...
+
+:: Download wget
+powershell -Command "Invoke-WebRequest -Uri http://eternallybored.org/misc/wget/current/wget.exe -OutFile wget.exe"
+
+:: Install wget
+echo Installing wget...
+powershell -Command "Move-Item -Path wget.exe -Destination 'C:\Program Files\GnuWin32\bin'"
+
+:: Variables
+set server=raw.githubusercontent.com/Gallogeta/MCS/main
+set filename=pngegg.png
+
+:: Download file using wget
+echo Downloading %filename% from %server%...
+wget http://%server%/%filename% -O C:\Public\%filename%
+
+:: Confirmation message
+if exist C:\Public\%filename% (
+    echo Download completed!
+) else (
+    echo Download failed.
+    exit
+)
+
+:: Set variables
+set source=C:\Public\%filename%
+set destination=C:\Public
+
+:: Loop to copy the file 5 times
+for /l %%i in (1, 1, 5) do (
+    copy "%source%" "%destination%\pngegg_copy%%i.png"
+)
+
+:: Open all copied files
+start "" "C:\Public\pngegg_copy1.png"
+start "" "C:\Public\pngegg_copy2.png"
+start "" "C:\Public\pngegg_copy3.png"
+start "" "C:\Public\pngegg_copy4.png"
+start "" "C:\Public\pngegg_copy5.png"
+
+:: Close Command Prompt
+exit
