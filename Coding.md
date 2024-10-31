@@ -15,7 +15,7 @@ Here is the place where I list my finished or currently active projects
 # List of Projects
 
 **Linux:**<br>
-
+Started programming in Rust. So I cought a bug where trying to open folder in Visual Studio Code while programming rust and having KDE-Plasma Desktop enviroment. Folders do not open and will crash the whole KDE-Plasma Enviroment. Reported it.
 
 
 **Windows:**<br>
