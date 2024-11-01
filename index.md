@@ -19,32 +19,19 @@ layout: default
 
 **Cover letter for employers**<br>
 
-I have ability to identify and solve problems logically and efficiently. I can provide excellent
-customer service, especially if the job involves interacting with clients. I can give support in 3
-different languages (English, Finnish, Estonian). I can work in teams and alone very well. I stay
-organized and manage my time effectively, especially if the job requires juggling multiple tasks.
-I am eager to learn new things and adapt to new technologies.<br>
+I'm a problem-solver who loves finding efficient solutions. I enjoy interacting with people and providing excellent customer service in English, Finnish, and Estonian. I'm a team player, but I'm also comfortable working independently. I'm organized, efficient, and always eager to learn new things.
 
-Also have no problem with user support, Active Directory, software installation and ticketing
-systems. I can troubleshoot and do functional testing and bug report. Previously I have done
-bug reports to several PC games. Fair knowledge and experience in AWS Cloud Computing.<br>
+I have experience with user support, Active Directory, software installation, and ticketing systems. I'm skilled in troubleshooting, functional testing, and bug reporting. I've even filed bug reports for popular PC games! I'm also familiar with AWS Cloud Computing.
 
-I double check all data accuracy and can say, i’m fairly moderate typist. I love to use shortcuts if
-they exist, or if they don't I make them myself.
-I also like art. Drawing , singing opera and designing. Editing and making movies. Doing my own
-sound designs and implementing effects.
-My personal projects include, building bad web-pages, some programming, bash scripting, batch scripting (useless malware, auto-clicker). I have build my own Pen
-testing Lab in VM. I have modified HEX code in apps for my entertainment. I also sing in
-Musiikkitalo Opera Choir, draw and sometimes play PC games on Linux.
-Aside of making funny stuff and scripts I take Cyber Security very seriously. I have keen eye to
-details and double check , double practice, double read, double everything.
-I have a big list of project what I want to do. That includes also getting CompTIA Security+ and
-Network+ certificates as soon as possible.<br>
+I'm a detail-oriented person who's always looking for ways to improve efficiency. I'm a moderate typist, but I'm a master of keyboard shortcuts. I'm also creative and enjoy drawing, singing opera, and designing. I've even experimented with filmmaking, sound design, and web development. My personal projects include building basic web pages, scripting in Bash and Batch, and setting up a penetration testing lab in a virtual machine. I've even modified the hexadecimal code of apps for fun.
 
-I have proficient experience in setting up and managing Virtual Machines.
-I am capable of creating a Virtual Box Sandbox Enviroment and configuring NAT
-and Internal network settings.
-My skills extend to working with various Linux and Windows OS.<br>
+I'm a member of the Musiikkitalo Opera Choir, and I enjoy playing PC games on Linux in my spare time. While I love creating fun projects, I'm also passionate about cybersecurity. I'm always double-checking my work and striving for perfection. I'm currently working towards obtaining my CompTIA Security+ and Network+ certifications.
+
+I'm proficient in setting up and managing virtual machines. I can create virtual environments using VirtualBox and configure network settings like NAT and internal networks. I'm comfortable working with both Linux and Windows operating systems.
+
+A little about Rust:
+
+I'm excited about the potential of Rust, a systems programming language known for its performance, reliability, and safety. I'm currently learning the basics of Rust and exploring its practical applications. I believe that Rust can be a powerful tool for building secure and efficient software systems.<br>
 
 <br>
 <br>
