@@ -17,6 +17,8 @@ Here is the place where I list my finished or currently active projects
 **Linux:**<br>
 Started programming in Rust. So I cought a bug where trying to open folder in Visual Studio Code while programming rust and having KDE-Plasma Desktop enviroment. Folders do not open and will crash the whole KDE-Plasma Enviroment. Reported it.
 
+So it seems, that I had to switch to Cinnamon and switched out Slint to Tauri. So now I am making app  with rust with tauri UI. App is a website Vulnerability Scanner. I made base already in rust and it works scanning XSS, BeEf frameworks and tokens. You just put addres in and it will show simple text result, if site is secured or not. Now I am making a new UI for that.
+
 
 **Windows:**<br>
 **In C**<br>
@@ -64,5 +66,5 @@ Started programming in Rust. So I cought a bug where trying to open folder in Vi
 **Experience with systems and programs**
 
 Linux, EDR, XDR, MDR, STRATA, Nmap, SPLUNK & Sysmon, Hydra, Metasploit, Wireshark, Snort, bash scripting. SSH, VPN, JIRA, IDS/IPS, batch script,Canva, WordPress,Linode, Oracle VM, VMM, TheBox, <br>
-Visual Studio Code,Windows 19 SERVER, MS Active Directory. Office, AWS Cloud, Google Workspaces, <br>
+Visual Studio Code,Windows 19 SERVER, MS Active Directory. Office, AWS Cloud, Google Workspaces, rust, kotlin, tauri, slint <br>
 
