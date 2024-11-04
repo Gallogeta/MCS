@@ -17,7 +17,7 @@ layout: default
 | Basics of Information Security           | `Cisco` | Passed  |
 | Basics of Networking           | `Cisco` Metropolia | Passed  |
 | English for ICT  | `Cisco`   | passed  |
-| Ethical Hacking           | `Cisco` Metropolia      | in Progress   |
+| Ethical Hacking           | `Cisco` Metropolia      | Passed   |
 | Basic Network analyzing with Wireshark           | Metropolia Open University | in Progress  |
 | Unix/Linux - RH 124 ,RH 134 ,RH 294           | `Red Hat Academy` Metropolia | in Progress  |
 | IT Service Management           | Metropolia Open University | in Progress  |
