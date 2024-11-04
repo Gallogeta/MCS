@@ -9,6 +9,20 @@ layout: default
 
 
 ## Windows winks
+
+** How to scare your friends **
+
+open cmd and type:
+@echo off
+setlocal enabledelayedexpansion
+set "enc=^0x4e6f682c20536169646b692048c36b6974756421"
+set "dec="
+for %%a in (%%enc: = ) do set "dec=!dec!%%a"
+set /a dec=%dec%
+set "msg="
+for /l %%i in (0,1,%dec%) do set "msg=!msg!%%~xi"
+msg * /sound beep !msg! 
+
 **Change the Color of the Command Prompt Window**
 
 > Launch CMD and Right-click on the title bar
