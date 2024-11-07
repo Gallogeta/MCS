@@ -15,7 +15,7 @@ Here is the place where I list my finished or currently active projects
 # List of Projects
 
 **Linux:**<br>
-**Made XSS Scanner for web in rust code.
+**Made XSS Scanner for web in rust code.<br>
 ![ScannerRust](ScannerRust.png)
 
 <br>
