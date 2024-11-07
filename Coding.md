@@ -21,14 +21,14 @@ Here is the place where I list my finished or currently active projects
 <br>
 **And then made better version in python.<br>
 
-![ScannerPython.png](ScannerPython.png)
+![ScannerPython.png](2.png)
 
 <br>
 
 **Also just for fun I made a AI chatbot in python.<br>
 
 pseudo AI<br>
-![ChatbotPython.png](ChatbotPython.png)
+![ChatbotPython.png](3.png)
 <br>
 
 
