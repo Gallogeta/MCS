@@ -15,6 +15,19 @@ Here is the place where I list my finished or currently active projects
 # List of Projects
 
 **Linux:**<br>
+** Made XSS Scanner for web in rust code.
+![ScannerRust](ScannerRust.png)
+
+<br>
+** And then made better version in python.
+![ScannerPython](ScannerPython.png)
+<br>
+Also just for fun I made a AI chatbot in python.
+pseudo AI
+![Chatbot](ChatbotPython.png)
+<br>
+
+
 Started programming in Rust. So I cought a bug where trying to open folder in Visual Studio Code while programming rust and having KDE-Plasma Desktop enviroment. Folders do not open and will crash the whole KDE-Plasma Enviroment. Reported it.
 
 So it seems, that I had to switch to Cinnamon and switched out Slint to Tauri. So now I am making app  with rust with tauri UI. App is a website Vulnerability Scanner. I made base already in rust and it works scanning XSS, BeEf frameworks and tokens. You just put addres in and it will show simple text result, if site is secured or not. Now I am making a new UI for that.
