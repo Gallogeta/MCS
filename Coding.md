@@ -16,19 +16,19 @@ Here is the place where I list my finished or currently active projects
 
 **Linux:**<br>
 **Made XSS Scanner for web in rust code.<br>
-![ScannerRust.png](1.png)
+![ScannerRust.png](ScannerRust.png)
 
 <br>
 **And then made better version in python.<br>
 
-![ScannerPython.png](2.png)
+![ScannerPython.png](ScannerPython.png)
 
 <br>
 
 **Also just for fun I made a AI chatbot in python.<br>
 
 pseudo AI<br>
-![ChatbotPython.png](3.png)
+![ChatbotPython.png](ChatbotPython.png)
 <br>
 
 
