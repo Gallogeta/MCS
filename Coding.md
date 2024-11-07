@@ -19,11 +19,15 @@ Here is the place where I list my finished or currently active projects
 ![ScannerRust](ScannerRust.png)
 
 <br>
-** And then made better version in python.
+** And then made better version in python.<br>
+
 ![ScannerPython](ScannerPython.png)
+
 <br>
-Also just for fun I made a AI chatbot in python.
-pseudo AI
+
+Also just for fun I made a AI chatbot in python.<br>
+
+pseudo AI<br>
 ![Chatbot](ChatbotPython.png)
 <br>
 
