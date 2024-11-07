@@ -36,6 +36,8 @@ Started programming in Rust. So I cought a bug where trying to open folder in Vi
 
 So it seems, that I had to switch to Cinnamon and switched out Slint to Tauri. So now I am making app  with rust with tauri UI. App is a website Vulnerability Scanner. I made base already in rust and it works scanning XSS, BeEf frameworks and tokens. You just put addres in and it will show simple text result, if site is secured or not. Now I am making a new UI for that.
 
+Quick update: Done some programming in python and now I am going to install Local LLM ja try out possibilities. Also next topic is Endpoint Security
+
 
 **Windows:**<br>
 **In C**<br>
