@@ -29,9 +29,12 @@ I'm a member of the Musiikkitalo Opera Choir, and I enjoy playing PC games on Li
 
 I'm proficient in setting up and managing virtual machines. I can create virtual environments using VirtualBox and configure network settings like NAT and internal networks. I'm comfortable working with both Linux and Windows operating systems.
 
-A little about Rust:
+I possess a comprehensive understanding of the gaming industry. I've served as a beta tester for numerous indie games that have evolved into some of today's most popular titles, including Warframe and Path of Exile.
 
-I'm excited about the potential of Rust, a systems programming language known for its performance, reliability, and safety. I'm currently learning the basics of Rust and exploring its practical applications. I believe that Rust can be a powerful tool for building secure and efficient software systems.<br>
+I'm a creative thinker with a strong analytical mind. I can generate innovative ideas and translate them into tangible results, such as creating art or analyzing data. I've even programmed local AI for my computer and frequently utilize AI for research, and content creation.
+
+I'm currently learning cyber security and enjoy delving into long-form writing. I stay up-to-date on gaming industry  trends and have a keen eye for future developments in the gaming sector.
+I am interested also in human psychology and philosophy behind storytelling in games.<br>
 
 <br>
 <br>
