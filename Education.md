@@ -23,6 +23,7 @@ layout: default
 | IT Service Management           | Metropolia Open University | in Progress  |
 | Endpoint Security  | `Cisco` Metropolia   | in Progress  |
 | AWS Cloud Computing           | Amazon Web Service      | in Progress   |
+| Power BI          | Metropolia Open University     | in Progress   |
 
 ###### **Additional Courses**
 
