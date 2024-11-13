@@ -72,6 +72,8 @@ Quick update: Done some programming in python and now I am going to install Loca
 | Kotlin           | Beginner   | Confused |
 | Python                      | Beginner | Yes  |
 | React           | Beginner   | Confused |
+| SQL           | Beginner   | Yes |
+
 
 
 
@@ -85,5 +87,5 @@ Quick update: Done some programming in python and now I am going to install Loca
 **Experience with systems and programs**
 
 Linux, EDR, XDR, MDR, STRATA, Nmap, SPLUNK & Sysmon, Hydra, Metasploit, Wireshark, Snort, bash scripting. SSH, VPN, JIRA, IDS/IPS, batch script,Canva, WordPress,Linode, Oracle VM, VMM, TheBox, <br>
-Visual Studio Code,Windows 19 SERVER, MS Active Directory. Office, AWS Cloud, Google Workspaces, rust, kotlin, tauri, slint <br>
+Visual Studio Code,Windows 19 SERVER, MS Active Directory. Office, AWS Cloud, Google Workspaces, rust, kotlin, tauri, slint, Python, SQL, Power BI<br>
 
