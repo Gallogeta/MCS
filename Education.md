@@ -21,7 +21,7 @@ layout: default
 | Basic Network analyzing with Wireshark           | Metropolia Open University | in Progress  |
 | Unix/Linux - RH 124 ,RH 134 ,RH 294           | `Red Hat Academy` Metropolia | in Progress  |
 | IT Service Management           | Metropolia Open University | in Progress  |
-| Endpoint Security  | `Cisco` Metropolia   | in Progress  |
+| Endpoint Security  | `Cisco` Metropolia   | Passed  |
 | AWS Cloud Computing           | Amazon Web Service      | in Progress   |
 | Power BI          | Metropolia Open University     | in Progress   |
 
