@@ -38,6 +38,8 @@ So it seems, that I had to switch to Cinnamon and switched out Slint to Tauri. S
 
 Quick update: Done some programming in python and now I am going to install Local LLM ja try out possibilities. Also next topic is Endpoint Security
 
+So Linux Administration and Ansible is now my fav thing. I dont think this get me a job :D but I will still get the Cert.
+
 
 **Windows:**<br>
 **In C**<br>
