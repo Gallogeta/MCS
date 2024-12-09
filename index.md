@@ -19,22 +19,27 @@ layout: default
 
 **Cover letter for employers**<br>
 
-I'm a problem-solver who loves finding efficient solutions. I enjoy interacting with people and providing excellent customer service in English, Finnish, and Estonian. I'm a team player, but I'm also comfortable working independently. I'm organized, efficient, and always eager to learn new things.
+I’m a problem-solver who loves finding efficient solutions. I enjoy interacting with people and
+providing excellent customer service in English, Finnish, and Estonian. I’m a team player, but I’m
+also comfortable working independently. I’m organized, efficient, and always eager to learn new
+things.
+I have experience with user support, Active Directory, software installation, and ticketing
+systems like JIRA. I’m skilled in troubleshooting, functional testing, and bug reporting. I’ve even filed bug
+reports for popular PC games! I’m also familiar with AWS Cloud Computing.
 
-I have experience with user support, Active Directory, software installation, and ticketing systems. I'm skilled in troubleshooting, functional testing, and bug reporting. I've even filed bug reports for popular PC games! I'm also familiar with AWS Cloud Computing.
+About Cyber Security: I have many Cisco certs about cyber security and I have finished cyber security courses from Metropolia and Laurea University. 
 
-I'm a detail-oriented person who's always looking for ways to improve efficiency. I'm a moderate typist, but I'm a master of keyboard shortcuts. I'm also creative and enjoy drawing, singing opera, and designing. I've even experimented with filmmaking, sound design, and web development. My personal projects include building basic web pages, scripting in Bash and Batch, and setting up a penetration testing lab in a virtual machine. I've even modified the hexadecimal code of apps for fun.
+About myself:
+I am very positive and have CAN-DO attitude. I take user security very seriously. In several places where I have worked, I have been one of the best workers in the company. I like to earn trust by working and giving high quality work to my employers or clients. I accept criticism and can improve in a short time. I have logical critical thinking and never bring emotions to workplace. I like to talk with people about AI and cyber security. Also I am proficient in singing opera and using AI in my daily life.  (Not talking about ChatGPT) :) .
 
-I'm a member of the Musiikkitalo Opera Choir, and I enjoy playing PC games on Linux in my spare time. While I love creating fun projects, I'm also passionate about cybersecurity. I'm always double-checking my work and striving for perfection. I'm currently working towards obtaining my CompTIA Security+ and Network+ certifications.
+I currently am getting Linux Administrator and Ansible certificate from  Red Hat Academy. Building also chatbot web application in React and hosting server in Linode. I use debloating software, that I wrote for Windows. I am quite good of detecting fraud , phishing and scams. 
 
-I'm proficient in setting up and managing virtual machines. I can create virtual environments using VirtualBox and configure network settings like NAT and internal networks. I'm comfortable working with both Linux and Windows operating systems.
+If you really read this cover letter then, my situation is bad. I want to work and I want to stay in one company as long as possible. I am loyal and trustworthy. I have no idea why companies won’t even get me an interview. I did an CV and AI sorting  analyze  and found that AI can’t read my CV. Many times it has given me very odd titels like:”People’s Management”, “Communication Designer” :D
+And I have no idea where AI takes them. It is funny but very bad for me.
 
-I possess a comprehensive understanding of the gaming industry. I've served as a beta tester for numerous indie games that have evolved into some of today's most popular titles, including Warframe and Path of Exile.
+Thank you for reading and have a nice day.
 
-I'm a creative thinker with a strong analytical mind. I can generate innovative ideas and translate them into tangible results, such as creating art or analyzing data. I've even programmed local AI for my computer and frequently utilize AI for research, and content creation.
-
-I'm currently learning cyber security and enjoy delving into long-form writing. I stay up-to-date on gaming industry  trends and have a keen eye for future developments in the gaming sector.
-I am interested also in human psychology and philosophy behind storytelling in games.<br>
+Meelis Norenberg<br>
 
 <br>
 <br>
