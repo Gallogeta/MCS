@@ -26,9 +26,7 @@ working and giving high quality work to my employers or clients. I accept critic
 improve in a short time. I have logical critical thinking and never bring emotions to workplace. I
 like to talk with people about AI and cyber security. Also I am proficient in singing opera and using
 AI in my daily life. (Not talking about ChatGPT) :) .
-I currently am getting Linux Administrator and Ansible certificate from Red Hat Academy.
-Building also chatbot web application in React and hosting server in Linode. I use debloating
-software, that I wrote for Windows. I am quite good of detecting fraud , phishing and scams.
+
 
 I currently am getting Linux Administrator and Ansible certificate from  Red Hat Academy. Building also chatbot web application in React and hosting server in Linode. I use debloating software, that I wrote for Windows. I am quite good of detecting fraud , phishing and scams. Also I am building a website for a company. And Firewall rule *.py for server to be invisible bots and hacks.
 
