@@ -24,6 +24,7 @@ layout: default
 | Endpoint Security  | `Cisco` Metropolia   | Passed  |
 | AWS Cloud Computing           | Amazon Web Service      | in Progress   |
 | Power BI          | Metropolia Open University     | in Progress   |
+| WordPress Web Development          | Metropolia Open University     | in Progress   |
 
 ###### **Additional Courses**
 
