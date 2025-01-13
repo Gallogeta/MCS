@@ -10,7 +10,7 @@ layout: default
 
 **Meelis Norenberg presents!**<br>
 
- Welcome to my humble page. Do not fear! There is no XSS not tcp capture.
+ Welcome to my humble page. 
  All files are clean and made by me....well at least 75%. That other 25% is AI and books.
 
  Enjoy exploring!<br>
@@ -19,23 +19,20 @@ layout: default
 
 **Cover letter for employers**<br>
 
-I’m a problem-solver who loves finding efficient solutions. I enjoy interacting with people and
-providing excellent customer service in English, Finnish, and Estonian. I’m a team player, but I’m
-also comfortable working independently. I’m organized, efficient, and always eager to learn new
-things.
-I have experience with user support, Active Directory, software installation, and ticketing
-systems like JIRA. I’m skilled in troubleshooting, functional testing, and bug reporting. I’ve even filed bug
-reports for popular PC games! I’m also familiar with AWS Cloud Computing.
-
-About Cyber Security: I have many Cisco certs about cyber security and I have finished cyber security courses from Metropolia and Laurea University. 
-
 About myself:
-I am very positive and have CAN-DO attitude. I take user security very seriously. In several places where I have worked, I have been one of the best workers in the company. I like to earn trust by working and giving high quality work to my employers or clients. I accept criticism and can improve in a short time. I have logical critical thinking and never bring emotions to workplace. I like to talk with people about AI and cyber security. Also I am proficient in singing opera and using AI in my daily life.  (Not talking about ChatGPT) :) .
+I am very positive and have CAN-DO attitude. I take user security very seriously. In several places
+where I have worked, I have been one of the best workers in the company. I like to earn trust by
+working and giving high quality work to my employers or clients. I accept criticism and can
+improve in a short time. I have logical critical thinking and never bring emotions to workplace. I
+like to talk with people about AI and cyber security. Also I am proficient in singing opera and using
+AI in my daily life. (Not talking about ChatGPT) :) .
+I currently am getting Linux Administrator and Ansible certificate from Red Hat Academy.
+Building also chatbot web application in React and hosting server in Linode. I use debloating
+software, that I wrote for Windows. I am quite good of detecting fraud , phishing and scams.
 
-I currently am getting Linux Administrator and Ansible certificate from  Red Hat Academy. Building also chatbot web application in React and hosting server in Linode. I use debloating software, that I wrote for Windows. I am quite good of detecting fraud , phishing and scams. 
+I currently am getting Linux Administrator and Ansible certificate from  Red Hat Academy. Building also chatbot web application in React and hosting server in Linode. I use debloating software, that I wrote for Windows. I am quite good of detecting fraud , phishing and scams. Also I am building a website for a company. And Firewall rule *.py for server to be invisible bots and hacks.
 
-If you really read this cover letter then, my situation is bad. I want to work and I want to stay in one company as long as possible. I am loyal and trustworthy. I have no idea why companies won’t even get me an interview. I did an CV and AI sorting  analyze  and found that AI can’t read my CV. Many times it has given me very odd titels like:”People’s Management”, “Communication Designer” :D
-And I have no idea where AI takes them. It is funny but very bad for me.
+
 
 Thank you for reading and have a nice day.
 
