@@ -15,6 +15,9 @@ Here is the place where I list my finished or currently active projects
 # List of Projects
 
 **Linux:**<br>
+
+**[Server Firewall IP 3way handshake blocker](fw.py)**<br>
+
 **Made XSS Scanner for web in rust code.<br>
 ![ScannerRust.png](ScannerRust.png)
 
