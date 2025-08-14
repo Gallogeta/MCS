@@ -25,11 +25,11 @@ where I have worked, I have been one of the best workers in the company. I like 
 working and giving high quality work to my employers or clients. I accept criticism and can
 improve in a short time. I have logical critical thinking and never bring emotions to workplace. I
 like to talk with people about AI and cyber security. Also I am proficient in singing opera and using
-AI in my daily life. (Not talking about ChatGPT) :) .
+AI in my daily life.  :) .
 
-I am passionate Linux sysadmin. I have managed Linux servers and riced the f* out of Linux distros. I have build custom firewall rules for server to block unwanted handshakes and scans from internet. Built system security alert system up. Hosted websites multiple times through Apache, gnix, Wordpress. Used ssh and or filezilla. Hooked sites and made correctly fake QR codes. Bash coding and Python coding is cool. I have build penetration lab in my VM. Built up VM system so that my Kali can penetrate multiple servers in VM.
+I am passionate Linux sysadmin. I have managed Linux servers and riced the f* out of Linux distros. I have build custom firewall rules for server to block unwanted handshakes and scans from internet. Built system security alert system up. Hosted websites multiple times through Apache, gnix, Wordpress. Used ssh, sftp, ftp protocols. Hooked sites and made correctly fake QR codes. Bash coding and Python coding is cool. I have build penetration lab in my VM. Built up VM system so that my Kali can penetrate multiple servers in VM.
 
-I currently am getting Linux Administrator and Ansible certificate from  Red Hat Academy. Building also chatbot web application in React and hosting server in Linode. I use debloating software, that I wrote for Windows. I am quite good of detecting fraud , phishing and scams. Also I am building a website for a company. And Firewall rule *.py for server to be invisible bots and hacks.
+I currently am getting Linux Administrator and Ansible certificate from  Red Hat Academy. Building also chatbot web application in React and hosting server: building media server. I use debloating software, that I wrote for Windows. I am quite good of detecting fraud , phishing and scams. Also I am building a website for a company. And Firewall rule *.py for server to be invisible bots and hacks. I iniw these are all rookie stuff but you have to start somewhere. 
 
 
 
