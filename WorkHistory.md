@@ -9,6 +9,14 @@ layout: default
 
 <br>
 
+## Magna Capax Finland OY - IT Support, Light Linux Sysadmin 2025
+Responsibilities:<br>
+
+> Managed and secured production web servers (Nginx/Lighttpd/PHP) on Linux platforms (Ubuntu/CentOS)<br>
+> Utilized WHMCS for change management and incident response, ensuring high service uptime.<br>
+> Automated Server deployment – rootless docker, jellyfin, sonarr, radarr, prowlarr, Nginx proxy manager<br>
+>  Learned, developed and maintained comprehensive internal documentation for system deployment and
+maintenance<br>
 
 ## Linora - IT Support remote 2023 (EST)
 Responsibilities:<br>
